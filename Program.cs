@@ -9,6 +9,7 @@ namespace aula2610
         {
             Excel excel = new Excel(Environment.GetFolderPath(Environment.SpecialFolder.Desktop));
             excel.CriarExcel();
+            excel.dispose();
 
         }
 
@@ -28,6 +29,11 @@ namespace aula2610
             ex.Cells[1, 1].Value = "Ford";
             ex.ActiveWorkbook.SaveAs(caminho + "\\arquivo.xlsx");
             ex.Quit();
+        }
+
+        public void dispose()
+        {
+            this.dispose();
         }
     }
 }
