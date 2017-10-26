@@ -1,0 +1,10 @@
+c:\Users\33359624866\aula2610\bin\Debug\netcoreapp2.0\aula2610.deps.json
+c:\Users\33359624866\aula2610\bin\Debug\netcoreapp2.0\aula2610.runtimeconfig.json
+c:\Users\33359624866\aula2610\bin\Debug\netcoreapp2.0\aula2610.runtimeconfig.dev.json
+c:\Users\33359624866\aula2610\bin\Debug\netcoreapp2.0\aula2610.dll
+c:\Users\33359624866\aula2610\bin\Debug\netcoreapp2.0\aula2610.pdb
+c:\Users\33359624866\aula2610\obj\Debug\netcoreapp2.0\aula2610.csproj.CoreCompileInputs.cache
+c:\Users\33359624866\aula2610\obj\Debug\netcoreapp2.0\aula2610.AssemblyInfoInputs.cache
+c:\Users\33359624866\aula2610\obj\Debug\netcoreapp2.0\aula2610.AssemblyInfo.cs
+c:\Users\33359624866\aula2610\obj\Debug\netcoreapp2.0\aula2610.dll
+c:\Users\33359624866\aula2610\obj\Debug\netcoreapp2.0\aula2610.pdb
